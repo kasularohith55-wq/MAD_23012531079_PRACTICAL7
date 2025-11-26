@@ -20,4 +20,7 @@ Add Internet Permission in  Manifest file
 Create Class HttpRequest for communicating with Web URL
 
  OUTPUT :
+
+
+ 
   <img width="784" height="838" alt="image" src="https://github.com/user-attachments/assets/19cc92a7-46a2-4b9f-b050-d524e980e7c5" />
